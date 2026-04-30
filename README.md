@@ -14,8 +14,4 @@ The static website is designed to provide information about our nail and beauty 
 - `images/`: Contains images used throughout the website.
 - `js/`: Contains JavaScript files for any interactivity.
 
-### Setup
-To setup the frontend locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DarrenDsa6/SoromiNailsAndBeautyAcademy.git
+##Deployment Link: https://darrendsa6.github.io/SoromiNailsAndBeautyAcademy/home.html
